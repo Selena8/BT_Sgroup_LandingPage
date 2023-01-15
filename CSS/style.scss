@@ -3471,16 +3471,16 @@ opacity: 0.15;
     }
 }
 
-// .reviews-slider {
-//     margin-top: 3.5rem;
-//     .swiper-slide {
-//         opacity: 0 !important;
-//         transition: opacity .5s ease
-//     }
-//     .swiper-slide-active {
-//         opacity: 1 !important
-//     }
-// }
+.reviews-slider {
+    margin-top: 3.5rem;
+    .swiper-slide {
+        opacity: 0 !important;
+        transition: opacity .5s ease
+    }
+    .swiper-slide-active {
+        opacity: 1 !important
+    }
+}
 
 .section-main-blog {
     margin-top: 17.4rem;

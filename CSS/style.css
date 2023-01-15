@@ -3400,6 +3400,17 @@ body:not(.loaded) .popup-decor-top {
   line-height: 170%;
 }
 
+.reviews-slider {
+  margin-top: 3.5rem;
+}
+.reviews-slider .swiper-slide {
+  opacity: 0 !important;
+  transition: opacity 0.5s ease;
+}
+.reviews-slider .swiper-slide-active {
+  opacity: 1 !important;
+}
+
 .section-main-blog {
   margin-top: 17.4rem;
 }
